@@ -1,1 +1,0 @@
-web: sh setup.sh && streamlit run "01-Linear Regression with Python.py"

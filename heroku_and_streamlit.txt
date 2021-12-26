@@ -1,2 +1,0 @@
-# get library versions from command line
-conda list
