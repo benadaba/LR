@@ -6,4 +6,4 @@ port = $PORT\n\
 enableCORS = false\n\
 headless = true\n\
 \n\
-" > ~/.housing_prediction/config.toml
+" > ~/.housing_prediction/config.toml.

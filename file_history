@@ -1,0 +1,47 @@
+commit 4b113ddf77147bc44ea93db3675b3bfd351e3ce5
+Merge: 5fc8789 a48b72f
+Author: bernie.adaba <bernie.adaba@gmail.com>
+Date:   Sun Dec 26 18:43:59 2021 +0000
+
+    Merge branch 'main' of https://github.com/benadaba/LR
+
+commit 5fc8789b0af60377da3c31cd812fa290dce6ee4d
+Author: bernie.adaba <bernie.adaba@gmail.com>
+Date:   Sun Dec 26 18:07:26 2021 +0000
+
+    Revert "initial commit"
+    
+    This reverts commit c7640dfebc94fc1a7fd31306f7bcb79b5bc59943.
+
+D	LinearRegressionHousingPrediction.py
+D	Procfile
+D	USA_Housing.csv
+D	desktop.ini
+D	heroku_and_streamlit.txt
+D	housing_clf.pkl
+D	requirements.txt
+D	setup.sh
+
+commit c7640dfebc94fc1a7fd31306f7bcb79b5bc59943
+Author: bernie.adaba <bernie.adaba@gmail.com>
+Date:   Sun Dec 26 18:02:54 2021 +0000
+
+    initial commit
+
+A	LinearRegressionHousingPrediction.py
+A	Procfile
+A	USA_Housing.csv
+A	desktop.ini
+A	heroku_and_streamlit.txt
+A	housing_clf.pkl
+A	requirements.txt
+A	setup.sh
+
+commit a48b72f878176d32b4ef52935417969711cdc31c
+Author: Bernard Antwi Adabankah <adabankah.com@gmail.com>
+Date:   Sun Dec 26 17:58:17 2021 +0000
+
+    Initial commit
+
+A	.gitignore
+A	README.md
