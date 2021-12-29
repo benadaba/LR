@@ -1,1 +1,1 @@
-worker: streamlit run LinearRegressionHousingPrediction.py
+worker: sh setup.sh && streamlit run LinearRegressionHousingPrediction.py
