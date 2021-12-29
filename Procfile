@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run LinearRegressionHousingPrediction.py
+web: streamlit run LinearRegressionHousingPrediction.py
