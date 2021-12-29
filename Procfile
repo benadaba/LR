@@ -1,1 +1,1 @@
-web: streamlit run LinearRegressionHousingPrediction.py
+worker: streamlit run LinearRegressionHousingPrediction.py
