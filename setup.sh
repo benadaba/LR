@@ -1,4 +1,4 @@
-mkdir -p ~/.housing_prediction/
+mkdir -p ~/.housingprediction/
 
 echo "\
 [server]\n\
@@ -6,4 +6,4 @@ port = $PORT\n\
 enableCORS = false\n\
 headless = true\n\
 \n\
-" > ~/.housing_prediction/config.toml
+" > ~/.housingprediction/config.toml
