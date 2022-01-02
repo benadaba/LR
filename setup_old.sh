@@ -1,4 +1,4 @@
-mkdir -p ~/.streamlit/
+mkdir -p ~/.housingprediction/
 
 echo "\
 [server]\n\
@@ -6,4 +6,4 @@ port = $PORT\n\
 enableCORS = false\n\
 headless = true\n\
 \n\
-" > ~/.streamlit/config.toml
+" > ~/.housingprediction/config.toml
